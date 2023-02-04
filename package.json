@@ -1,0 +1,12 @@
+{
+    "name": "indian-railway-wrapper",
+    "version": "1.0.0",
+    "description": "Javascript API Wrapper to use Indian Railway API",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Mohit Laad",
+    "license": "ISC"
+}
