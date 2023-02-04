@@ -1,12 +1,27 @@
 {
-    "name": "indian-railway-wrapper",
-    "version": "1.0.0",
-    "description": "Javascript API Wrapper to use Indian Railway API",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node app.js"
-    },
-    "author": "Mohit Laad",
-    "license": "ISC"
+  "name": "indian-railway-wrapper",
+  "version": "1.0.0",
+  "description": "Javascript API Wrapper to use Indian Railway API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Mohit Laad",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitlaadiitd/indian-railway-wrapper.git"
+  },
+  "keywords": [
+    "railway-api",
+    "indian-railways-api"
+  ],
+  "bugs": {
+    "url": "https://github.com/mohitlaadiitd/indian-railway-wrapper/issues"
+  },
+  "homepage": "https://github.com/mohitlaadiitd/indian-railway-wrapper#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
